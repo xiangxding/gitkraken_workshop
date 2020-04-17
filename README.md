@@ -1,21 +1,19 @@
-README.md
+# GitKraken Workshop on Zoom
 
-###NAME
-
-##Overview
+## Overview
 Our code will demonstrate the different ways it is possible to calculate the value of pi, done in either R or Python.
 
 
-##Installation
+## Installation
 The full suite of code will require the Tmisc and dplyr R packages;
 matplotlib and seaboarn for Python
 
 
-##Usage
+## Usage
 Simply fire up RStudio for trying out your R code, or Spyder for your Python code
 
 
-##Getting help
+## Getting help
 
 
 ## Contributors
